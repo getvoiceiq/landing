@@ -1,0 +1,29 @@
+<main id="main">
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{base}}/">VoiceIQ</a> / <a href="{{base}}/insights/">Insights</a></p>
+    <h1>{{title}}</h1>
+    <p class="lead">{{summary}}</p>
+    <p class="meta" style="color:var(--on-dark-2);margin-top:18px"><span>{{date_h}}</span><span>{{read}} min read</span></p>
+  </div>
+</section>
+<section class="sec" style="padding-top:clamp(40px,6vw,72px)">
+  <div class="wrap">
+    <article class="article">{{body}}</article>
+    <div class="share"><span>Share this article</span><a class="btn btn-line-l" style="padding:10px 16px" href="https://wa.me/?text={{share}}" rel="noopener">WhatsApp</a></div>
+    <aside class="article-cta">
+      <h2>See what your own comments say.</h2>
+      <p>Paste your first 20 comments free. No card needed.</p>
+      <div class="cta-row"><a class="btn btn-gold" href="{{app}}/">Start free</a></div>
+    </aside>
+  </div>
+</section>
+<section class="sec band" id="subscribe" style="padding:clamp(48px,7vw,88px) 0">
+  <div class="wrap">
+    <h2>Get {{nl_name}} free.</h2>
+    <p class="lead">{{nl_tagline}}</p>
+    {{newsletter}}
+  </div>
+</section>
+{{more}}
+</main>

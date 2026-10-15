@@ -1,0 +1,32 @@
+---
+title: Your article title goes here
+date: 2026-10-20
+summary: One or two sentences that tell a reader why to open it. This also appears in search results and link previews.
+---
+
+Start with the problem your reader has, in plain words. Two or three short sentences.
+
+## A heading for the first idea
+
+Explain it. Keep paragraphs short. Use **bold** for the words that matter.
+
+- A list item
+- Another list item
+
+## A heading for the second idea
+
+1. A numbered step
+2. Another step
+
+> A quote or a key sentence you want to stand out.
+
+| Column one | Column two |
+|---|---|
+| A cell | Another cell |
+
+## What to do next
+
+End with one clear action. To link to the product use: [VoiceIQ](../../)
+
+(Delete the lines above, write your own, and save the file as a name like  my-article-title.md
+ in the folder  content/posts/ . Add  draft: true  under the summary line to keep it hidden until it is ready.)

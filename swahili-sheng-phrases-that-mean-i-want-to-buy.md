@@ -39,4 +39,4 @@ Here is a working list to train your eye, or your team. It is not complete, and 
 2. **Reply in the language they used.** A Kiswahili question answered in Kiswahili feels like a person, not a system.
 3. **Keep your own list growing.** Every time a customer uses a phrase you did not expect, add it to your notes.
 
-VoiceIQ is built to read comments written this way, including sentences that mix languages. It still makes mistakes with slang and sarcasm, which is why every finding shows you the comment behind it, so you can always check.
+SikiaIQ is built to read comments written this way, including sentences that mix languages. It still makes mistakes with slang and sarcasm, which is why every finding shows you the comment behind it, so you can always check.

@@ -26,7 +26,7 @@ Explain it. Keep paragraphs short. Use **bold** for the words that matter.
 
 ## What to do next
 
-End with one clear action. To link to the product use: [VoiceIQ](../../)
+End with one clear action. To link to the product use: [SikiaIQ](../../)
 
 (Delete the lines above, write your own, and save the file as a name like  my-article-title.md
  in the folder  content/posts/ . Add  draft: true  under the summary line to keep it hidden until it is ready.)

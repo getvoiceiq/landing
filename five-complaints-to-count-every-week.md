@@ -42,4 +42,4 @@ Here are five complaint types that appear in almost every business's comments. C
 
 At the end of each week, go through the week's comments and put a mark next to the matching complaint. Write the totals in one place and compare them to last week. After a month you will see which problems are shrinking and which are growing.
 
-If you have hundreds of comments a week, VoiceIQ counts them for you and shows the exact comments behind each number, so you can check the count before you act on it.
+If you have hundreds of comments a week, SikiaIQ counts them for you and shows the exact comments behind each number, so you can check the count before you act on it.

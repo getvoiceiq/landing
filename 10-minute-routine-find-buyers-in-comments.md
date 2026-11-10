@@ -42,4 +42,4 @@ The better reply answers first. A person who gets the price in public is far mor
 
 At the end of the week, count two numbers: how many people asked a buying question, and how many you answered within an hour. If the second number is much smaller than the first, you have found money you are leaving on the table.
 
-If your posts get hundreds of comments, doing this by hand stops being realistic. That is the part [VoiceIQ](../../) does for you: paste the comments, and it lists the people ready to buy and drafts the reply. The routine above still works without it, and it is the best way to see how much you are missing.
+If your posts get hundreds of comments, doing this by hand stops being realistic. That is the part [SikiaIQ](../../) does for you: paste the comments, and it lists the people ready to buy and drafts the reply. The routine above still works without it, and it is the best way to see how much you are missing.
